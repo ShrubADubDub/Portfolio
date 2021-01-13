@@ -1,0 +1,16 @@
+index.html line 76:
+    -hover opacity issue with horizontal boundary due to title text
+        -same issue with other preview images
+
+
+
+ask about how to make an image a clickable button to go to gallery from main page
+
+
+
+find out how to cause cliking on a gallery photo to open a hover gallery you can cycle through
+
+
+
+index.html line 17:
+    -why is the image that was used to replace the svg is the same location/size as before?
